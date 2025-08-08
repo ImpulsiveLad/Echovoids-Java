@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/end_stone",
+    "up": "echovoids:block/end_grass_top",
+    "north": "echovoids:block/end_grass_side",
+    "east": "echovoids:block/end_grass_side",
+    "south": "echovoids:block/end_grass_side",
+    "west": "echovoids:block/end_grass_side",
+    "particle": "minecraft:block/end_stone"
+  },
+  "render_type": "solid"
+}

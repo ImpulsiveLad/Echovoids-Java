@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "particle": "echovoids:block/nillow_boards",
+    "texture": "echovoids:block/nillow_boards"
+  },
+  "render_type": "solid"
+}

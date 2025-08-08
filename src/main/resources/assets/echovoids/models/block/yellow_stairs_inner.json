@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "echovoids:block/nillow_boards",
+    "bottom": "echovoids:block/nillow_boards",
+    "top": "echovoids:block/nillow_boards",
+    "side": "echovoids:block/nillow_boards"
+  },
+  "render_type": "solid"
+}

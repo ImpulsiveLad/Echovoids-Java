@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "echovoids:block/entropite",
+    "up": "echovoids:block/entropite",
+    "north": "echovoids:block/entropic_endstone",
+    "east": "echovoids:block/entropic_endstone",
+    "south": "echovoids:block/entropic_endstone",
+    "west": "echovoids:block/entropic_endstone",
+    "particle": "echovoids:block/entropite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "echovoids:block/tall_nillow_sprouts",
+    "particle": "echovoids:block/tall_nillow_sprouts"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,87 @@
+{
+    "carvers": {},
+    "downfall": 0.5,
+    "effects": {
+      "fog_color": 10518688,
+      "mood_sound": {
+        "block_search_extent": 8,
+        "offset": 2.0,
+        "sound": "minecraft:ambient.cave",
+        "tick_delay": 6000
+      },
+      "sky_color": 16765291,
+      "water_color": 4159204,
+      "water_fog_color": 329011,
+      "particle": {
+        "options": {
+          "type": "minecraft:white_ash"
+        },
+        "probability": 0.01
+      },
+      "ambient_sound": "minecraft:ambient.warped_forest.loop"
+    },
+    "features": [
+      [
+        "echovoids:entropite_flooring_placed"
+      ],
+      [
+        "echovoids:mosses"
+      ],
+      [
+        "echovoids:entropite_flooring_placed"
+      ],
+      [
+        "echovoids:entropite_basis_placed_step1"
+      ],
+      [
+        "echovoids:entropite_basis_placed_step2"
+      ],
+      [
+        "echovoids:entropite_basis_placed_step3"
+      ],
+      [
+        "echovoids:entropite_basis_placed_step4"
+      ],
+      [
+        "echovoids:entropite_basis_placed_step5"
+      ],
+      [
+        "echovoids:cactuses"
+      ],
+      [
+        "echovoids:tall_nillow_tree_placed"
+      ],
+      [
+        "echovoids:medium_nillow_tree_placed"
+      ],
+      [
+        "echovoids:short_nillow_tree_placed"
+      ],
+      [
+        "echovoids:trees"
+      ],
+      [
+        "echovoids:vineses"
+      ]
+    ],
+    "has_precipitation": false,
+    "spawn_costs": {},
+    "spawners": {
+      "ambient": [],
+      "axolotls": [],
+      "creature": [],
+      "misc": [],
+      "monster": [
+        {
+          "type": "minecraft:enderman",
+          "maxCount": 4,
+          "minCount": 4,
+          "weight": 10
+        }
+      ],
+      "underground_water_creature": [],
+      "water_ambient": [],
+      "water_creature": []
+    },
+    "temperature": 0.5
+  }

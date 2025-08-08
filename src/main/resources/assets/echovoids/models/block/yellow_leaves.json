@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "echovoids:block/yellow_leaves",
+    "particle": "echovoids:block/yellow_leaves"
+  }
+}

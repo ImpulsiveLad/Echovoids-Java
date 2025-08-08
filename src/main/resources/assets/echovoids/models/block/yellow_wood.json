@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "echovoids:block/yellow_bark",
+    "particle": "echovoids:block/yellow_bark"
+  },
+  "render_type": "solid"
+}

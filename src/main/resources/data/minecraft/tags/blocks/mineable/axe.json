@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "echovoids:yellow_trapdoor",
+    "echovoids:yellow_door",
+    "echovoids:yellow_planks",
+    "echovoids:yellow_log",
+    "echovoids:yellow_wood",
+    "echovoids:yellow_stairs",
+    "echovoids:yellow_fence",
+    "echovoids:yellow_fence_gate",
+    "echovoids:yellow_pressure_plate",
+    "echovoids:yellow_button",
+    "echovoids:yellow_slab",
+    "echovoids:tall_endgrassplant",
+    "echovoids:endgrassplant",
+    "echovoids:yellow_sapling",
+    "echovoids:end_vine",
+    "echovoids:end_vine_plant"
+  ]
+}

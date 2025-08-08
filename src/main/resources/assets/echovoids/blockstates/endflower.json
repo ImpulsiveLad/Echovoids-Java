@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "echovoids:block/endflower"
+    },
+    "half=lower": {
+      "model": "echovoids:block/endflower_bottom"
+    }
+  }
+}

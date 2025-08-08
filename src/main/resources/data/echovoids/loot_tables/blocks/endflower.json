@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "echovoids:blocks/endflower",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:match_tool",
+          "predicate": {
+            "items": [
+              "minecraft:shears"
+            ]
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "echovoids:endflower",
+          "conditions": [
+            {
+              "block": "echovoids:endflower",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

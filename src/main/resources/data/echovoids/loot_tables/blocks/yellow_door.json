@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "echovoids:blocks/yellow_door",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "echovoids:yellow_door",
+          "conditions": [
+            {
+              "block": "echovoids:yellow_door",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

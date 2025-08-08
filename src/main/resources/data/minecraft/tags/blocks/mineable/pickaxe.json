@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "echovoids:corrode_stone",
+    "echovoids:corroded_endstone",
+    "echovoids:end_grass"
+  ]
+}

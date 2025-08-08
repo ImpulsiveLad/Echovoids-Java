@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "echovoids:yellow_log"
+    }
+  ],
+  "result": {
+    "item": "echovoids:yellow_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "echovoids:block/yellow_slab"
+    },
+    "type=top": {
+      "model": "echovoids:block/yellow_slab_top"
+    },
+    "type=double": {
+      "model": "echovoids:block/yellow_slab_full"
+    }
+  }
+}

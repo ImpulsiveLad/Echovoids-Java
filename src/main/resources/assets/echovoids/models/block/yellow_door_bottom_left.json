@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_left",
+  "textures": {
+    "particle": "echovoids:block/yellow_door_bottom",
+    "bottom": "echovoids:block/yellow_door_bottom",
+    "top": "echovoids:block/yellow_door_top"
+  },
+  "render_type": "translucent"
+}

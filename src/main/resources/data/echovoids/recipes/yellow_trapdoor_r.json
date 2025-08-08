@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "echovoids:yellow_planks"
+    }
+  },
+  "result": {
+    "item": "echovoids:yellow_trapdoor",
+    "count": 2
+  }
+}

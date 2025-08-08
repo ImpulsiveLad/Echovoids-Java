@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "echovoids:blocks/endgrassplant",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:match_tool",
+          "predicate": {
+            "items": [
+              "minecraft:shears"
+            ]
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "echovoids:endgrassplant"
+        }
+      ]
+    }
+  ]
+}

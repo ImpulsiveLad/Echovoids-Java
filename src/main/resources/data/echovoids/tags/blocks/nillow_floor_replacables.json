@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "echovoids:end_grass",
+    "minecraft:end_stone",
+    "echovoids:corroded_endstone",
+    "minecraft:air",
+    "minecraft:dirt",
+    "minecraft:grass_block"
+  ]
+}

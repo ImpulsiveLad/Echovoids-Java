@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "echovoids:endgrassplant",
+    "echovoids:tall_endgrassplant",
+    "echovoids:endflower",
+    "minecraft:chorus_flower",
+    "minecraft:chorus_plant",
+    "echovoids:end_vine",
+    "echovoids:yellow_leaves",
+    "minecraft:air"
+  ]
+}

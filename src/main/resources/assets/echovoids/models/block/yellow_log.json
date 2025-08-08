@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "echovoids:block/nillow_log_top",
+    "up": "echovoids:block/nillow_log_top",
+    "north": "echovoids:block/yellow_bark",
+    "east": "echovoids:block/yellow_bark",
+    "south": "echovoids:block/yellow_bark",
+    "west": "echovoids:block/yellow_bark",
+    "particle": "echovoids:block/nillow_log_top"
+  },
+  "render_type": "solid"
+}
